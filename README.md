@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **cheruiyotfabian@gmail.com**
 
-- ⚡ Fun fact **I am paasionate about AI**
+- ⚡ **I am passionate about AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
