@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezfabian" alt="sezfabian" /></a> </p>
 
-- 🔭 I’m currently working on [The_Tv_Guys](https://github.com/sezfabian/The_Tv_Guys)
+- 🔭 I’m currently working on [HustleFiti](https://github.com/sezfabian/HustleFiti)
 
 - 🌱 I’m currently learning **Kotlin, Pytorch and React**
 
