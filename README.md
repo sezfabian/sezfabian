@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezfabian" alt="sezfabian" /></a> </p>
 
-- 🔭 I’m currently working on [HustleFiti](https://github.com/sezfabian/HustleFiti)
+- I’m currently working on [HustleFiti](https://github.com/sezfabian/HustleFiti)
 
-- 🌱 I’m currently learning **Kotlin, Pytorch and React**
+- 📫 Reach me  at **cheruiyotfabian@gmail.com**
 
-- 👯 I’m looking to collaborate on [ivy](https://github.com/unifyai/ivy)
-
-- 💬 Ask me about **flask, vue and fast api**
-
-- 📫 How to reach me **cheruiyotfabian@gmail.com**
-
-- ⚡ **I am passionate about AI**
+- ⚡ **I am passionate about AI, E-commerce and Web3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
