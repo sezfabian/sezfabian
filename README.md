@@ -1,27 +1,96 @@
-<h1 align="center">Hi, I'm Fabian Cheruiyot</h1>
-<h3 align="center">Full-Stack Software Engineer | Electrical & Electronic Engineer | NBO Kenya</h3>
+# Fabian Cheruiyot
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sezfabian&label=Profile%20views&color=0e75b6&style=flat" alt="sezfabian" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Electrical+%26+Electronic+Engineer;AI+%26+Web3+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezfabian" alt="sezfabian" /></a> </p>
-
-- I’m currently working on [HustleFiti](https://github.com/sezfabian/HustleFiti)
-
-- 📫 Reach me  at **cheruiyotfabian@gmail.com**
-
-- ⚡ **I am passionate about AI, E-commerce and Web3**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/SezFabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fabiancheruiyot" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cheruiyotfabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheruiyotfabian" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:cheruiyotfabian@gmail.com"><img src="https://img.shields.io/badge/Email-cheruiyotfabian%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://twitter.com/SezFabian"><img src="https://img.shields.io/badge/Twitter-%40SezFabian-1DA1F2?style=flat-square&logo=twitter"></a>
+  <a href="https://linkedin.com/in/cheruiyotfabian"><img src="https://img.shields.io/badge/LinkedIn-cheruiyotfabian-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/sezfabian"><img src="https://komarev.com/ghpvc/?username=sezfabian&label=Profile%20views&color=0e75b6&style=flat-square"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sezfabian&show_icons=true&locale=en&layout=compact" alt="sezfabian" /></p>
+I'm a versatile Full-Stack Software Engineer based in Nairobi, Kenya with a background in Electrical & Electronic Engineering. I'm passionate about creating meaningful software solutions that combine technical excellence with real-world impact.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sezfabian&show_icons=true&locale=en" alt="sezfabian" /></p>
+- 🔭 Currently building [HustleFiti](https://github.com/sezfabian/HustleFiti)
+- 🌱 Passionate about AI, E-commerce, and Web3 technologies
+- 🚀 I enjoy solving complex problems through elegant code
+- 🌍 Based in Nairobi, Kenya
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sezfabian&" alt="sezfabian" /></p>
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+</p>
+
+## 📌 Featured Projects
+
+### [HustleFiti](https://github.com/sezfabian/HustleFiti)
+A platform designed to connect freelancers with potential clients, streamlining the gig economy experience.
+- **Tech Stack**: [Add technologies used]
+- **Status**: Active Development
+
+<!-- Add more projects with descriptions, links, and screenshots if possible -->
+
+### [Project Name](https://github.com/sezfabian/project-link)
+Brief description of what this project does and what problem it solves.
+- **Tech Stack**: [Add technologies used]
+- **Key Features**: 
+  - Feature 1
+  - Feature 2
+
+### [Project Name](https://github.com/sezfabian/project-link)
+Brief description of what this project does and what problem it solves.
+- **Tech Stack**: [Add technologies used]
+- **Key Features**: 
+  - Feature 1
+  - Feature 2
+
+## 🎓 Education & Certifications
+
+- **Bachelor of Science in Electrical & Electronic Engineering**
+  - [Your University] | [Year]
+  
+<!-- Add any relevant certifications -->
+- **Certification Name** | Issuing Organization | Year
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sezfabian&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sezfabian&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezfabian&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 📬 Get in Touch
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out to me at:
+
+- 📧 Email: [cheruiyotfabian@gmail.com](mailto:cheruiyotfabian@gmail.com)
+- 🐦 Twitter: [@SezFabian](https://twitter.com/SezFabian)
+- 💼 LinkedIn: [cheruiyotfabian](https://linkedin.com/in/cheruiyotfabian)
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sezfabian&theme=radical&row=1&column=6" alt="trophy" />
+</div>
