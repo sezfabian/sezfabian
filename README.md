@@ -43,24 +43,19 @@ I'm a versatile Full-Stack Software Engineer based in Nairobi, Kenya with a back
 
 ### [HustleFiti](https://github.com/sezfabian/HustleFiti)
 A platform designed to connect freelancers with potential clients, streamlining the gig economy experience.
-- **Tech Stack**: [Add technologies used]
-- **Status**: Active Development
+- **Tech Stack**: [Python, FastAPI, PostgreSQL, Vue3, Pinia]
+- **Status**: Inactive
 
 <!-- Add more projects with descriptions, links, and screenshots if possible -->
+### [DairyDrive](https://dairydrive.netlify.app/)
+An intelligent farm management system that revolutionizes dairy operations through AI-powered analytics, automated health diagnostics, and predictive cost planning.
 
-### [Project Name](https://github.com/sezfabian/project-link)
-Brief description of what this project does and what problem it solves.
-- **Tech Stack**: [Add technologies used]
+- **Tech Stack**: [Python, Django, PostgreSQL, Vue3, Tanstack]
 - **Key Features**: 
-  - Feature 1
-  - Feature 2
-
-### [Project Name](https://github.com/sezfabian/project-link)
-Brief description of what this project does and what problem it solves.
-- **Tech Stack**: [Add technologies used]
-- **Key Features**: 
-  - Feature 1
-  - Feature 2
+  - AI-driven livestock health monitoring and early disease detection
+  - Predictive analytics for milk production optimization
+  - Automated cost forecasting and resource allocation
+  - Real-time performance dashboards and financial planning tools
 
 ## 🎓 Education & Certifications
 
