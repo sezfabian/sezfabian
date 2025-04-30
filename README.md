@@ -81,7 +81,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 - 📧 Email: [cheruiyotfabian@gmail.com](mailto:cheruiyotfabian@gmail.com)
 - 🐦 Twitter: [@SezFabian](https://twitter.com/SezFabian)
-- 💼 LinkedIn: [cheruiyotfabian](https://linkedin.com/in/cheruiyotfabian)
+- 💼 LinkedIn: [cheruiyotfabian](http://linkedin.com/in/cheruiyot-fabian-4b9542142)
 
 ---
 
