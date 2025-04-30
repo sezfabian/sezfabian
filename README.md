@@ -13,10 +13,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a versatile Full-Stack Software Engineer based in Nairobi, Kenya with a background in Electrical & Electronic Engineering. I'm passionate about creating meaningful software solutions that combine technical excellence with real-world impact.
+I'm a versatile Full-Stack Software Engineer with 4-years experience in copetitive programming, AI Training, Web Development and Technical Support. With a background in Electrical & Electronic Engineering, I'm passionate about creating craftly engineered, meaningful software solutions that combine technical excellence with real-world impact.
 
-- 🔭 Currently building [HustleFiti](https://github.com/sezfabian/HustleFiti)
-- 🌱 Passionate about AI, E-commerce, and Web3 technologies
+- 🔭 Currently building [HustleFiti](https://dairydrive.netlify.app)
+- 🌱 Passionate about AI, E-commerce, and SaaS technologies
 - 🚀 I enjoy solving complex problems through elegant code
 - 🌍 Based in Nairobi, Kenya
 
