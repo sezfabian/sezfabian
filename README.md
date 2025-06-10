@@ -1,7 +1,7 @@
 # Fabian Cheruiyot
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Electrical+%26+Electronic+Engineer;AI+%26+Web3+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Electrical+%26+Electronic+Engineer;AI+Powered+Web-Apps&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <p align="center">
