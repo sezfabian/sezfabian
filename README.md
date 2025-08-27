@@ -1,8 +1,13 @@
 # Fabian Cheruiyot
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Msc+Advanced+Computing+with+Artificial+Intelligence;BSc Electrical+%26+Electronic+Engineering&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Msc+Advanced-Computing+with+Artificial-Intelligence;BSc+Electrical+%26+Electronic+Engineering&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Electrical+%26+Electronic+Engineer;AI+Powered+Web-Apps&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
+
 
 <p align="center">
   <a href="mailto:cheruiyotfabian@gmail.com"><img src="https://img.shields.io/badge/Email-cheruiyotfabian%40gmail.com-blue?style=flat-square&logo=gmail"></a>
