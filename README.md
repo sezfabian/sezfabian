@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a versatile Full-Stack Software Engineer with 4-years experience in copetitive programming, AI Training, Web Development and Technical Support. With a background in Electrical & Electronic Engineering, I'm passionate about creating craftly engineered, meaningful software solutions that combine technical excellence with real-world impact.
+I'm a versatile Full-Stack Software Engineer with over 4 years of experience in competitive programming, AI Training, Web Development, and Technical Support. With a background in Electrical & Electronic Engineering, I'm passionate about creating craftily engineered, meaningful software solutions that combine technical excellence with real-world impact.
 
 - 🔭 Currently building [HustleFiti](https://dairydrive.netlify.app)
 - 🌱 Passionate about AI, E-commerce, and SaaS technologies
@@ -41,29 +41,40 @@ I'm a versatile Full-Stack Software Engineer with 4-years experience in copetiti
 
 ## 📌 Featured Projects
 
-### [HustleFiti](https://github.com/sezfabian/HustleFiti)
-A platform designed to connect freelancers with potential clients, streamlining the gig economy experience.
-- **Tech Stack**: [Python, FastAPI, PostgreSQL, Vue3, Pinia]
-- **Status**: Inactive
+### [MikroTik CloudPilotAPI](https://mikrotik-cloudpilotapi.onrender.com/)
+A Django-based open API for managing Mikrotik routers with user authentication, secure API key management, and integrated payment processing for WiFi packages.
+- **Tech Stack**: [Python, Django, SQLite, Mkdocs]
+- **Status**: Active
 
-<!-- Add more projects with descriptions, links, and screenshots if possible -->
+
 ### [DairyDrive](https://dairydrive.netlify.app/)
-An intelligent farm management system that revolutionizes dairy operations through AI-powered analytics, automated health diagnostics, and predictive cost planning.
+An intelligent farm management system for dairy operations with AI-powered analytics, automated health diagnostics, and predictive cost planning.
 
 - **Tech Stack**: [Python, Django, PostgreSQL, Vue3, Tanstack]
+- **Status**: Active
 - **Key Features**: 
   - AI-driven livestock health monitoring and early disease detection
   - Predictive analytics for milk production optimization
   - Automated cost forecasting and resource allocation
   - Real-time performance dashboards and financial planning tools
 
+
+### [HustleFiti](https://github.com/sezfabian/HustleFiti)
+A platform designed to connect freelancers with potential clients, streamlining the gig economy experience.
+- **Tech Stack**: [Python, FastAPI, PostgreSQL, Vue3, Pinia]
+- **Status**: Inactive
+
+
 ## 🎓 Education & Certifications
 
+- **Master of Science Advanced Computing with Artificial Intelligence**
+  - [University of Stirling] | [2025 - 2026]
+
 - **Bachelor of Science in Electrical & Electronic Engineering**
-  - [Your University] | [Year]
+  - [University of Nairobi] | [2017 - 2022]
   
 <!-- Add any relevant certifications -->
-- **Certification Name** | Issuing Organization | Year
+- **Software Engineering Certificate** | Africa Leadership Academy(ALX) | 2023
 
 ## 📈 GitHub Stats
 
