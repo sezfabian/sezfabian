@@ -16,8 +16,7 @@
 
 I'm a versatile Full-Stack Software Engineer with over 4 years of experience in competitive programming, AI Training, Web Development, and Technical Support. With a background in Electrical & Electronic Engineering, I'm passionate about creating craftily engineered, meaningful software solutions that combine technical excellence with real-world impact.
 
-- 🔭 Currently building [HustleFiti](https://dairydrive.netlify.app)
-- 🌱 Passionate about AI, E-commerce, and SaaS technologies
+- 🌱 Passionate about AI & Machine Learning, E-commerce, and SaaS technologies
 - 🚀 I enjoy solving complex problems through elegant code
 - 🌍 Based in Nairobi, Kenya
 
