@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a versatile Full-Stack Software Engineer with over 4 years of experience in competitive programming, AI Training, Web Development, and Technical Support. With a background in Electrical & Electronic Engineering, I'm passionate about creating craftily engineered, meaningful software solutions that combine technical excellence with real-world impact.
+I'm a versatile Full-Stack Software Engineer with over 4 years of experience in competitive programming, AI Training, Web Development, and Technical Support. Currently pursuing my Master's degree in Advanced Computing with Artificial Intelligence. With a background in Electrical & Electronic Engineering.
 
-- 🌱 Passionate about AI & Machine Learning, E-commerce, and SaaS technologies
+- 🌱 Passionate about AI/Machine Learning and its application in FinTech, and SaaS technologies
 - 🚀 I enjoy solving complex problems through elegant code
-- 🌍 Based in Nairobi, Kenya
+- 🌍 Based in Stirling, Scotland
 
 ## 🛠️ Technologies & Tools
 
