@@ -24,11 +24,10 @@
 
 I'm a versatile Full-Stack Software Engineer with over 4 years of experience in competitive programming, AI Training, Web Development, and Technical Support. Currently pursuing my Master's degree in Advanced Computing with Artificial Intelligence. With a background in Electrical & Electronic Engineering.
 
-- 🌱 Passionate about AI/Machine Learning and its application in FinTech, and SaaS technologies
-- 🚀 I enjoy solving complex problems through elegant code
-- 🌍 Based in Stirling, Scotland
+- Passionate about AI/Machine Learning and its application in FinTech, and SaaS technologies
+- I enjoy solving complex problems through elegant code and emerging technologies
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -47,7 +46,7 @@ I'm a versatile Full-Stack Software Engineer with over 4 years of experience in 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </p>
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### [MikroTik CloudPilotAPI](https://mikrotik-cloudpilotapi.onrender.com/)
 A Django-based open API for managing Mikrotik routers with user authentication, secure API key management, and integrated payment processing for WiFi packages.
@@ -73,7 +72,7 @@ A platform designed to connect freelancers with potential clients, streamlining 
 - **Status**: Inactive
 
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **Master of Science Advanced Computing with Artificial Intelligence**
   - [University of Stirling] | [2025 - 2026]
@@ -84,7 +83,7 @@ A platform designed to connect freelancers with potential clients, streamlining 
 <!-- Add any relevant certifications -->
 - **Software Engineering Certificate** | Africa Leadership Academy(ALX) | 2023
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sezfabian&theme=radical" alt="GitHub Streak" width="48%" />
@@ -94,7 +93,7 @@ A platform designed to connect freelancers with potential clients, streamlining 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezfabian&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📬 Get in Touch
+## Get in Touch
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out to me at:
 
