@@ -9,7 +9,7 @@
                                                                             |___/
 ```        
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Msc+Artificial+Intelligence;BSC+Electrical+%26+Electronic+Engineering&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Msc+Artificial+Intelligence;Bsc+Electronics+Engineering&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 
